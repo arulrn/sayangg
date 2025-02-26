@@ -80,3 +80,16 @@
     color: #ff009d;
     transition: 0.3s all ease-in-out;
 }
+
+@media (max-width: 480px) {
+    .button button {
+        width: 40px;
+        height: 40px;
+        font-size: 14px;
+    }
+
+    .calculator {
+        width: 90%;
+        max-width: 350px;
+    }
+}
