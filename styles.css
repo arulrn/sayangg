@@ -155,7 +155,6 @@
 
 .button button:hover {
     background-color: transparent ;
-    color: #ff009d;
     transition: 0.3s all ease-in-out;
 }
 }
